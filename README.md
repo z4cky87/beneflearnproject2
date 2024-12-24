@@ -1,24 +1,32 @@
-landingpag_beneflearn
-Landing page kursus digital - beneflearn
+<h1>Landing page kursus digital - beneflearn</h1>
 
-<h1>Link Github</h1>
-https://z4cky87.github.io/beneflearnproject2
 
-URL Firebase
-https://tugasbeneflearn.web.app/
+<h3>Link Github</h3>
+<a href="https://z4cky87.github.io/beneflearnproject2">https://z4cky87.github.io/beneflearnproject2</a> 
 
-Laporan Pencapaian Dalam Project Ini
-Deploy project ke Firebase
-Membuat page public di github dan meletakkan source code di git
-Develop web base
+<h3>URL Firebase</h3>
+<a href="https://tugasbeneflearn.web.app/">https://tugasbeneflearn.web.app/</a> 
 
-Fitur utama yang telah selesai
-Pendaftaran kursus digital via Landing page
-Live chat
-SEO
+<h3>Laporan Pencapaian Dalam Project Ini</h3>
+<ul>
+    <li>Deploy project ke Firebase</li>
+    <li>Membuat page public di github dan meletakkan source code di git</li>
+    <li>Develop web base</li>
+</ul>
 
-Kendala yang dihadapi dan bagaimana solusi diterapkan
 
-Materinya padat dimana kita pekerja harus extra banget belajarnya. Solusinya dikejar sedapat mungkin mesti telat setor latihan
-Sempet masalah meletakkan live chat tapi akhirnya di cari cari dapat
-Buat pesan dan integrasi webhook ada kendala solusinya di debug via console log di inspect elemen
+<h3>Fitur utama yang telah selesai</h3>
+<ul>
+    <li>Pendaftaran kursus digital via Landing page</li>
+    <li>Live chat</li>
+    <li>SEO</li>
+</ul>
+
+
+<h3>Kendala yang dihadapi dan bagaimana solusi diterapkan</h3>
+
+<ul>
+    <li>Materinya padat dimana kita pekerja harus extra banget belajarnya. Solusinya dikejar sedapat mungkin mesti telat setor latihan</li>
+    <li>Sempet masalah meletakkan live chat tapi akhirnya di cari cari dapat</li>
+    <li>Buat pesan dan integrasi webhook ada kendala solusinya di debug via console log di inspect elemen</li>
+</ul>
