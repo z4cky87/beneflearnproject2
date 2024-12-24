@@ -1,9 +1,7 @@
-# beneflearnproject2
-
 landingpag_beneflearn
 Landing page kursus digital - beneflearn
 
-Link Github
+<h1>Link Github</h1>
 https://z4cky87.github.io/beneflearnproject2
 
 URL Firebase
@@ -13,6 +11,7 @@ Laporan Pencapaian Dalam Project Ini
 Deploy project ke Firebase
 Membuat page public di github dan meletakkan source code di git
 Develop web base
+
 Fitur utama yang telah selesai
 Pendaftaran kursus digital via Landing page
 Live chat
